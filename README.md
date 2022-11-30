@@ -22,7 +22,7 @@ Open the program through the [URL](https://bookbooker.herokuapp.com/). To instal
 
 ## Usage
 
-Search for books. To save them, create an account or login and then click the "save book" button on the desired books. To view saved books, click on the "saved books" navigation option.
+Search for books. To save them, create an account or login and then click the "save book" button on the desired books. To view saved books, click on the "saved books" navigation option. You can also visualize and work with the API through apollogl if desired.
 
 [Link to Application](https://bookbooker.herokuapp.com/)
 
